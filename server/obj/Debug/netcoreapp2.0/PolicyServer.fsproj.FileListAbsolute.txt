@@ -1,0 +1,8 @@
+/Users/nick/git/hackathon-scaffold/server/bin/Debug/netcoreapp2.0/PolicyServer.deps.json
+/Users/nick/git/hackathon-scaffold/server/bin/Debug/netcoreapp2.0/PolicyServer.runtimeconfig.json
+/Users/nick/git/hackathon-scaffold/server/bin/Debug/netcoreapp2.0/PolicyServer.runtimeconfig.dev.json
+/Users/nick/git/hackathon-scaffold/server/bin/Debug/netcoreapp2.0/PolicyServer.dll
+/Users/nick/git/hackathon-scaffold/server/bin/Debug/netcoreapp2.0/PolicyServer.pdb
+/Users/nick/git/hackathon-scaffold/server/obj/Debug/netcoreapp2.0/PolicyServer.fsproj.CoreCompileInputs.cache
+/Users/nick/git/hackathon-scaffold/server/obj/Debug/netcoreapp2.0/PolicyServer.dll
+/Users/nick/git/hackathon-scaffold/server/obj/Debug/netcoreapp2.0/PolicyServer.pdb

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="src/Models/*.fs" />
+    <Compile Include="src/Http.fs" />
+    <Compile Include="src/HttpUtil.fs" />
+    <Compile Include="src/ApiSerialization.fs" />
+    <Compile Include="src/Program.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Hopac" Version="0.3.23" />
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+    <PackageReference Include="Suave" Version="2.1.1" />
+  </ItemGroup>
+</Project>
